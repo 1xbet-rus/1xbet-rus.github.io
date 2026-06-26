@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /reg/
+
+Sitemap: https://1xbet-rus.github.io/sitemap.xml
